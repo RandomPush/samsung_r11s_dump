@@ -1,0 +1,14 @@
+# r11sxxx-user 15 AP3A.240905.015.A2 S711BXXSAEYH1 release-keys
+- manufacturer: samsung
+- platform: universal9925
+- codename: r11s
+- flavor: r11sxxx-user
+- release: 15
+- id: AP3A.240905.015.A2
+- incremental: S711BXXSAEYH1
+- tags: release-keys
+- fingerprint: samsung/r11sxxx/r11s:12/SP1A.210812.016/S711BXXSAEYH1:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: r11sxxx-user-15-AP3A.240905.015.A2-S711BXXSAEYH1-release-keys-
+- repo: samsung_r11s_dump
